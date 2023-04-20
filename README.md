@@ -2,7 +2,7 @@
 
 Cool and simple website that works like a command prompt, everything is customizable and you can create your own commands.
 
-![alt text]([http://url/to/img.png](https://i.imgur.com/59CZm9x.png))
+![alt text](https://i.imgur.com/59CZm9x.png)
 
 ## Installation
 
