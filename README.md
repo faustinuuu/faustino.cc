@@ -7,7 +7,7 @@ Example: http://www.faustino.cc/
 
 ## Installation
 
-The website is made with HTML, CSS and Javascript, there's no installation neeeded, you just need a browser.
+The website is made with HTML, CSS and Javascript, there's no installation needed, you just need a browser.
 
 ## Creating new commands
 
