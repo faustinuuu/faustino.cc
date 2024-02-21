@@ -9,8 +9,7 @@ whois = [
   "Hey, I'm Faustino!👋",
   "I'm an amateur software developer and professional no-lifer.",
   "I spend most of my time gaming or doing stupid and useless projects like this one.",
-  "I'm from Portugal and in this moment I'm living in Aveiro, working and saving up",
-  "to move to Lisbon, a way bigger city where I have some of my friends and my girlfriend :)",
+  "I'm from Portugal and in this moment I'm living in Aveiro.",
   "<br>"
 ];
 
