@@ -58,7 +58,6 @@ help = [
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">thought</span>        Thought of the Day',
   '<span class="command">social</span>         Display social networks',
-  '<span class="command">projects</span>       View coding projects',
   '<span class="command">history</span>        View command history',
   '<span class="command">help</span>           You obviously already know what this does',
   '<span class="command">clear</span>          Clear terminal',
