@@ -108,12 +108,6 @@ function commander(cmd) {
       liner.classList.add("password");
       pw = true;
       break;
-    case "projects":
-        addLine("Opening my project...", "color2", 80);
-        setTimeout(function() {
-          window.open('https://www.faustino.cc');
-        }, 1000); 
-        break;
     case "password":
       addLine("<span class=\"inherit\"> Lol! You're joking, right? You\'re gonna have to try harder than that!</span>", "error", 100);
       break;
