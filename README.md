@@ -1,7 +1,6 @@
 # Terminal Website
 
 Cool and simple website that works like a command prompt, everything is customizable and you can create your own commands.\
-Example: http://www.faustino.cc/
 
 ![alt text](https://i.imgur.com/59CZm9x.png)
 
@@ -43,4 +42,4 @@ whois = [
 
 ## Questions?
 
-If you need help with anything just contact me on discord: ```faustino#0001```
+If you need help with anything just contact me on discord: ```faustino```
