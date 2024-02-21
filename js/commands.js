@@ -55,8 +55,6 @@ secret = [
 help = [
   "<br>",
   '<span class="command">whois</span>          Who is Faustino?',
-  '<span class="command">whoami</span>         Who are you?',
-  '<span class="command">thought</span>        Thought of the Day',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">history</span>        View command history',
   '<span class="command">help</span>           You obviously already know what this does',
