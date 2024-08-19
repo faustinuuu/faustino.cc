@@ -67,7 +67,7 @@ secret = [
 
 help = [
   "<br>",
-  '<span class="command">dbd</span>            Show`s my DBD Account Shop',
+  '<span class="command">dbd</span>            Shows my DBD Account Shop',
   '<span class="command">whois</span>          Who is Faustino?',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">history</span>        View command history',
