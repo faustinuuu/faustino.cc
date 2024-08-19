@@ -3,6 +3,10 @@ var twitter = "https://twitter.com/Faustino1103";
 var password = "dorian";
 var instagram = "https://www.instagram.com/joaosantos1103/";
 var github = "https://replit.com/@faustinuuu";
+var all = "https://www.eldorado.gg/dead-by-daylight-accounts/oa/f5cad0c9-6e18-40fc-977a-4fdf2badba3f";
+var alll = "https://www.eldorado.gg/dead-by-daylight-accounts/oa/96c8cbdd-6c7b-4167-a333-8e904e535db0";
+var ls = "https://www.eldorado.gg/dead-by-daylight-accounts/oa/202879fb-06d6-43d8-82c4-77e14c85b098";
+var uat = "https://www.eldorado.gg/dead-by-daylight-accounts/oa/0e5fa9bc-a53d-4d5d-9095-0ec87e62feb8";
 
 whois = [
   "<br>",
@@ -42,6 +46,15 @@ social = [
   'twitter        <a href="' + twitter + '" target="_blank">twitter/faustino' + '</a>',
   'instagram      <a href="' + instagram + '" target="_blank">instagram/faustino' + '</a>',
   'replit         <a href="' + github + '" target="_blank">replit/faustino' + "</a>",
+  "<br>"
+];
+
+dbd = [
+  "<br>",
+  'All perks unlocked                 <a href="' + all + '" target="_blank">Buy Here!' + "</a>",
+  'All perks unlocked + Legacy        <a href="' + alll + '" target="_blank">Buy Here!' + '</a>',
+  'Legacy Skins                       <a href="' + ls + '" target="_blank">Buy Here!' + '</a>',
+  'Unlock All Tool                    <a href="' + uat + '" target="_blank">Buy Here!' + "</a>",
   "<br>"
 ];
 
