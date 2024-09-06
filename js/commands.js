@@ -1,4 +1,5 @@
 var youtube = "https://www.youtube.com/channel/UC5p9eyIG7vQyEatLJvxYj7A";
+var rules = "https://github.com/faustinuuu/DBDUnlocker";
 var twitter = "https://twitter.com/Faustino1103";
 var password = "dorian";
 var instagram = "https://www.instagram.com/joaosantos1103/";
