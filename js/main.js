@@ -98,6 +98,10 @@ function commander(cmd) {
       addLine("Opening YouTube...", "color2", 80);
       newTab(youtube);
       break;
+    case "rules":
+      addLine("Opening github...", "color2", 80);
+      newTab(rules);
+      break;
     case "sudo":
       addLine("SIKE, YOU THOUGHT... YOU ARE NOT ADMIN", "color2", 80);
       setTimeout(function() {
