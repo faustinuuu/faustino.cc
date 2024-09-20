@@ -51,9 +51,9 @@ social = [
 dbd = [
   "<br>",
   'Unlock All Tool                              <a href="' + uat + '" target="_blank">Buy Here!' + "</a>",
-  'All perks unlocked - No Stock :(             <a href="' + all + '" target="_blank">Buy Here!' + "</a>",
-  'All perks unlocked + Legacy - No Stock :(    <a href="' + alll + '" target="_blank">Buy Here!' + '</a>',
-  'Legacy Skins - No Stock :(                   <a href="' + ls + '" target="_blank">Buy Here!' + '</a>',
+  'All perks unlocked - <span class=\"command\">No Stock :(</span>             <a href="' + all + '" target="_blank">Buy Here!' + "</a>",
+  'All perks unlocked + Legacy - <span class=\"command\">No Stock :(</span>    <a href="' + alll + '" target="_blank">Buy Here!' + '</a>',
+  'Legacy Skins - <span class=\"command\">No Stock :(</span>                   <a href="' + ls + '" target="_blank">Buy Here!' + '</a>',
   "<br>"
 ];
 
