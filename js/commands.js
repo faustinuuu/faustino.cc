@@ -14,7 +14,7 @@ whois = [
   "Hey, I'm Faustino!👋",
   "I'm an amateur software developer who sells bananas at Mercadona instead of making use of my IT abilities.",
   "I spend most of my time reverse engineering PC games and working on random projects like this one :)",
-  "I'm from Portugal, and at the moment, I'm living in Aveiro, seeking a way to make a life out of my passion... using a keyboard and a mouse... <3",
+  "I'm from Portugal, and at the moment, I'm living in Aveiro, seeking a way to make a life out of my passion... using a <span class=\"command\">keyboard</span> and a <span class=\"command\">mouse</span>... <3",
   "<br>"
 ];
 
