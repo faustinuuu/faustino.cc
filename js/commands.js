@@ -44,7 +44,7 @@ whoami = [
 social = [
   "<br>",
   'instagram      <a href="' + instagram + '" target="_blank">instagram/faustino' + '</a>',
-  'youtube         <a href="' + youtube + '" target="_blank">youtube/faustino' + "</a>",
+  'youtube        <a href="' + youtube + '" target="_blank">youtube/faustino' + "</a>",
   'replit         <a href="' + github + '" target="_blank">replit/faustino' + "</a>",
   "<br>"
 ];
