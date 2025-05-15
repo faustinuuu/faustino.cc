@@ -140,7 +140,7 @@ html {
 }
 
 .card-body .profile-header .profil-logo::before {
-  content: "See Profil";
+  content: "See Profile";
   position: absolute;
   right: 0;
   top: 0;
